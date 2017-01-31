@@ -15,4 +15,7 @@ public class Hotel {
         this.deskripsi = deskripsi;
         this.foto = foto;
     }
+
+    public Hotel(String s, String s1, String s2, String s3, String s4) {
+    }
 }
